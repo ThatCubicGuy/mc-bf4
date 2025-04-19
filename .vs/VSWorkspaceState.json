@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\client",
+    "\\src\\client\\java",
+    "\\src\\client\\java\\com",
+    "\\src\\client\\java\\com\\example",
+    "\\src\\client\\java\\com\\example\\mixin",
+    "\\src\\client\\java\\com\\example\\mixin\\client",
+    "\\src\\client\\resources",
+    "\\src\\main",
+    "\\src\\main\\resources",
+    "\\src\\main\\resources\\assets",
+    "\\src\\main\\resources\\assets\\modid"
+  ],
+  "SelectedNode": "\\src\\client\\java\\com\\example\\ExampleModClient.java",
+  "PreviewInSolutionExplorer": false
+}
